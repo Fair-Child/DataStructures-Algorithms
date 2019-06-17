@@ -1,0 +1,8 @@
+Hash Tables
+
+1. abstract data type
+2. provide access to data using keys
+3. key doesn't have to be an integer
+4. consists of key/value pairs - data types don't have to match
+5. optimized for retrieval(when you know the key)
+6. associative array is one type of hash table
