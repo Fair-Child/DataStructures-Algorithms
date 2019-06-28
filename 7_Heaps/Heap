@@ -1,0 +1,7 @@
+Heap is a:
+
+1. complete tree (every level of the tree got two child except the last level)
+2. children are added to each level from left to right
+3. usually implemented as arrays
+4. the maximum or minimum value will always be at the root of the tree (advantage of using Heap)
+5. heapify: process of converting a binary tree into a heap
